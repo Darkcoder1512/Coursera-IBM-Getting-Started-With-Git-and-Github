@@ -2,4 +2,4 @@
 
 Authors
 
-Darkcoder1512
+Syed Muhammad Hadi
